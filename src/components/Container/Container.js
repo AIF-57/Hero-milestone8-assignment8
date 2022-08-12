@@ -20,23 +20,26 @@ const Container = () => {
 
 
     return (
-        <div className='container'>
-            <div className="cards">
-            {
-                cards.map(card => 
-                            <Cards key={card.id}
-                                 card={card}
-                                 selectCard={selectCard}>
-                            </Cards>
-                    )
-            }
-            </div>
-            <div className="wishlist">
-                <Wishlist
-                    selectedItem={selectedItem}
-                ></Wishlist>
+        <div>
+            <div className='container'>
+                <div className="cards">
+                {
+                    cards.map(card => 
+                                <Cards key={card.id}
+                                    card={card}
+                                    selectCard={selectCard}>
+                                </Cards>
+                        )
+                }
+                </div>
+                <div className="wishlist">
+                    <Wishlist
+                        selectedItem={selectedItem}
+                    ></Wishlist>
+                </div>
             </div>
         </div>
+        
     );
 };
 

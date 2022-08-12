@@ -1,7 +1,7 @@
 import './Cards.css'
 
 const Cards = ({card,selectCard}) => {
-    const {id,name,img} = card;
+    const {name,img} = card;
 
 
     return (

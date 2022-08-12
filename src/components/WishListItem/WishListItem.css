@@ -1,0 +1,8 @@
+.itemDetails{
+    border: 1px solid;
+    display: flex;
+    border-radius: 8px;
+}
+img{
+    border-radius: 8px 0 0 8px ;
+}
