@@ -10,7 +10,7 @@ const Cards = ({card,selectCard}) => {
         <div className='card'>
             <img src={img} alt="" width="200"/>
             <p>{name}</p>
-            <button className='cardBtn' onClick={()=>selectCard(card)}><FontAwesomeIcon icon={faCheckCircle}></FontAwesomeIcon> Select</button>
+            <button className='cardBtn' onClick={()=> selectCard(card)}><FontAwesomeIcon icon={faCheckCircle}></FontAwesomeIcon> Select</button>
         </div>
     );
 };
