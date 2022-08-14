@@ -41,6 +41,10 @@ const Container = () => {
         };
     };
 
+    const randomSelection2 = () =>{
+        setSelectedCard([])
+        setRandomCard([])
+    }
 
 
     return (
@@ -67,6 +71,7 @@ const Container = () => {
                     <Wishlist
                     selectedCard={selectedCard}
                     randomSelection={randomSelection}
+                    randomSelection2={randomSelection2}
                     ></Wishlist>
                 </div>
             </div>
