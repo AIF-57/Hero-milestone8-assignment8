@@ -18,7 +18,7 @@ img{
 
 
 /* responsive CSS */
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 576px) {
     .itemDetails{
         grid-template-columns: 1fr;
     }

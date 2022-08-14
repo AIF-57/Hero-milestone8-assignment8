@@ -2,61 +2,73 @@
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
         "name": "Gradient golden",
-        "img":"./img/5692498.jpg"
+        "img":"./img/5692498.jpg",
+        "price": "$5.55"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eaa",
         "name": "Green gradient",
-        "img":"./img/2626914.jpg"
+        "img":"./img/2626914.jpg",
+        "price": "$7.12"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
         "name": "Black elegant        ",
-        "img":"./img/6584904.jpg"
+        "img":"./img/6584904.jpg",
+        "price": "$8.00"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eac",
         "name": "White business card",
-        "img":"./img/5117792.jpg"
+        "img":"./img/5117792.jpg",
+        "price": "$5.78"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eae",
         "name": "Flat business card",
-        "img":"./img/2024464.jpg"
+        "img":"./img/2024464.jpg",
+        "price": "$9.13"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eaf",
         "name": "Multicolor template",
-        "img":"./img/3546825.jpg"
+        "img":"./img/3546825.jpg",
+        "price": "$8.19"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eag",
         "name": "Purple template",
-        "img":"./img/2237071.jpg"
+        "img":"./img/2237071.jpg",
+        "price": "$7.00"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eah",
-        "name": "Gradient abstract business card        ",
-        "img":"./img/6732866.jpg"
+        "name": "Gradient abstract card        ",
+        "img":"./img/6732866.jpg",
+        "price": "$12.00"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eai",
         "name": "Ocean Blue business card",
-        "img":"./img/5035721.jpg"
+        "img":"./img/5035721.jpg",
+        "price": "$9.77"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eaj",
         "name": "Blue & White design",
-        "img":"./img/6618165.jpg"
+        "img":"./img/6618165.jpg",
+        "price": "$6.89"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eak",
         "name": "Orange shade",
-        "img":"./img/2790359.jpg"
+        "img":"./img/2790359.jpg",
+        "price": "$12.01"
     },
     {
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eal",
-        "name": "Flat White minimal design",
-        "img":"./img/6730452.jpg"
+        "name": "Flat White design",
+        "img":"./img/6730452.jpg",
+        "price": "$11.07"
     }
 ]

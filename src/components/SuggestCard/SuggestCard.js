@@ -4,8 +4,10 @@ import './SuggestCard.css'
 const SuggestCard = ({randomCard}) => {
 
     let imgSrc;
-    for(const item of randomCard){
-        imgSrc = item.img;
+    if(randomCard){
+        for(const item of randomCard){
+            imgSrc = item.img;
+        }    
     }
     return (
         <div className='showCard'>

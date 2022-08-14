@@ -9,7 +9,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Wishlist = ({selectedCard,randomSelection}) => {
     
-
     return (
         <div className='wishList'>
             <h3>Wishlist</h3>
@@ -23,7 +22,7 @@ const Wishlist = ({selectedCard,randomSelection}) => {
            
             
             
-            <button className='confirmBtn' onClick={()=> randomSelection(selectedCard)}>Confirm Design <FontAwesomeIcon icon={faExclamationCircle}></FontAwesomeIcon></button>
+            <button className='confirmBtn' onClick={()=> randomSelection(selectedCard)}>Suggest Card <FontAwesomeIcon icon={faExclamationCircle}></FontAwesomeIcon></button>
         </div>
         
     );
