@@ -5,6 +5,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 const WishListItem = ({cardDetails}) => {
+
+
     return (
         <div>
             <div className='itemDetails'>

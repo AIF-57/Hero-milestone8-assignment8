@@ -16,7 +16,8 @@ const Wishlist = ({selectedCard,randomSelection,randomSelection2}) => {
             {
                 selectedCard.map(card => <WishListItem
                         key={card.id}
-                        cardDetails={card}>
+                        cardDetails={card}
+                        >
                     </WishListItem>)
             }
            
